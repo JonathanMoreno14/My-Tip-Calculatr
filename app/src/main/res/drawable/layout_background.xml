@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <!-- solid background -->
+            <solid android:color="@color/colorPrimaryDark"/>
+            <!-- border-->
+            <stroke
+                android:color="@color/colorPrimaryDark"
+                android:width="2dp"
+                />
+            <corners android:radius="25dp"/>
+            <!-- different corners with different radius-->
+            <!--corners
+                android:bottomLeftRadius="5dp"
+                android:topLeftRadius="10dp"
+                android:topRightRadius="15dp"
+                android:bottomRightRadius="20dp"
+                /-->
+        </shape>
+    </item>
+</selector>
+
+
+
+
+
+
+
+
+
+
+
+
+<!--<shape xmlns:android="http://schemas.android.com/apk/res/android">-->
+    <!--<solid android:color="@color/colorPrimaryDark"/>-->
+    <!--<stroke android:width="3dp" android:color="@color/colorPrimaryDark" />-->
+    <!--<corners android:radius="10dp"/>-->
+    <!--<padding android:left="0dp" android:top="0dp" android:right="0dp" android:bottom="0dp" />-->
+<!--</shape>-->

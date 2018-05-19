@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Tip Calculatr</string>
+
+
+
+    <!--Layout Strings-->
+    <string name="totalAmount">Total:</string>
+    <string name="tipAmount">Tip Amount(%):</string>
+    <string name="numOfPeople">Number Of People:</string>
+
+
+
+    <!--Card View Strings-->
+    <string name="totalBill">Total Bill:</string>
+    <string name="tipTotal">Tip Total:</string>
+    <string name="billPerPerson">Bill Per Person:</string>
+    <string name="tipPerPerson">Tip Per Person:</string>
+
+
+</resources>
