@@ -1,7 +1,7 @@
 
 # My Tip Calculator
 
-
+![feature banner](https://user-images.githubusercontent.com/11635523/40263632-e5dc3eda-5ada-11e8-9e4e-028e8d68d60e.png)
 
 
 
