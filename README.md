@@ -1,4 +1,18 @@
 
+# My Tip Calculator
+
+
+
+
+
+
+
+
+
+![screenshot](https://user-images.githubusercontent.com/11635523/40263385-35bc1ce4-5ad7-11e8-8f02-e6140425db6f.png)
+
+[![google-play-badge copy-v2](https://user-images.githubusercontent.com/11635523/40263384-35a219a2-5ad7-11e8-9492-698872b6e9d9.png)](https://play.google.com/store/apps/details?id=com.jm.jonathanmoreno.mytipcalculatr)
+
 
 #### Android API 23
 
